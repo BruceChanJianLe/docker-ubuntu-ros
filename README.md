@@ -16,7 +16,7 @@ Run the following commands to see if the image is correctly built.
 ```bash
 docker images
 # Output
-# REPOSITORY          TAG                    IMAGE ID            CREATED             SIZE
+# REPOSITORY          TAG                    IMAGE ID            CREATED              SIZE
 # ubuntu16.04         ros                    beaebb15da84        About a minute ago   3.36GB
 # osrf/ros            kinetic-desktop-full   3176b47fedb9        9 days ago           3.19GB
 
