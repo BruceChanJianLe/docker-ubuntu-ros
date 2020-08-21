@@ -1,5 +1,5 @@
 # Tags: https://hub.docker.com/r/osrf/ros/tags
-FROM osrf/ros:kinetic-desktop-full-bionic
+FROM osrf/ros:kinetic-desktop-full
 
 LABEL maintainer="brucechanjianle <jianle001@e.ntu.edu.sg>"
 
