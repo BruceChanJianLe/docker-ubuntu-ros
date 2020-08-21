@@ -16,9 +16,9 @@ Run the following commands to see if the image is correctly built.
 ```bash
 docker images
 # Output
-# REPOSITORY          TAG                           IMAGE ID            CREATED             SIZE
-# osrf/ros            melodic-desktop-full-bionic   a198f2b70877        10 days ago         2.75GB
-#
+# REPOSITORY          TAG                    IMAGE ID            CREATED             SIZE
+# ubuntu18.04         ros                    7f732da32ca9        5 minutes ago       3.03GB
+# osrf/ros            melodic-desktop-full   a198f2b70877        10 days ago         2.75GB
 ```
 
 ## Starting the Container
