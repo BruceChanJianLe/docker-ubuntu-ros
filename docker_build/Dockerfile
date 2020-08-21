@@ -48,6 +48,6 @@ RUN apt-get autoclean -y && \
         apt-get autoremove -y && \
         rm -rf /var/lib/apt/lists/* /tmp/* ~/*
 
-WORKDIR /root/
+WORKDIR /root/docker_mount/
 
 ENTRYPOINT ["bash"]
