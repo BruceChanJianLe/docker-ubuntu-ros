@@ -1,4 +1,4 @@
-# Docker Ubuntu ROS
+# Docker Ubuntu 16.04 ROS Kinetic
 
 This repository stores the information of setting up basic ROS on Ubuntu to be used in docker.  
 
