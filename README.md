@@ -1,4 +1,4 @@
-# Docker Ubuntu ROS
+# Docker Ubuntu 18.04 ROS Melodic
 
 This repository stores the information of setting up basic ROS on Ubuntu to be used in docker.  
 
