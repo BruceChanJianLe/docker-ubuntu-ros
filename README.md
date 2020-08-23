@@ -51,4 +51,4 @@ Enjoy your ROS Ubuntu in a docker container. Please look at other branches for y
 
 ## Reference
 
-- [link1](https://jarisafi.wordpress.com/2018/01/17/how-i-use-docker-for-robotics-development/)
+- [link1](https://jarisafi.wordpress.com/2018/01/17/how-i-use-docker-for-robotics-development/) [link2](https://gist.github.com/robsonke/c5c478bae476adb32d48)
