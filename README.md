@@ -51,4 +51,4 @@ Enjoy your ROS Ubuntu in a docker container. Please look at other branches for y
 
 ## Reference
 
-- [link1](https://jarisafi.wordpress.com/2018/01/17/how-i-use-docker-for-robotics-development/) [link2](https://stackoverflow.com/questions/33493456/docker-bash-prompt-does-not-display-color-output)
+- [link1](https://jarisafi.wordpress.com/2018/01/17/how-i-use-docker-for-robotics-development/) [link2](https://stackoverflow.com/questions/33493456/docker-bash-prompt-does-not-display-color-output) [link3](https://gist.github.com/robsonke/c5c478bae476adb32d48)
