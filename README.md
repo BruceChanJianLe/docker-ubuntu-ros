@@ -30,7 +30,7 @@ Please provide a name to the newly started container.
 cd scripts
 ./start_docker_container.bash
 # Provide a name
-# Starting container image ubuntu16.04:basic
+# Starting container image ubuntu16.04:ros
 # Container name: my_container
 ```
 
