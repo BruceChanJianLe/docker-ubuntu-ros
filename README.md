@@ -7,7 +7,7 @@ This repository stores the information of setting up basic ROS on Ubuntu to be u
 Build the dockerfile inside the `docker_build` directory.  
 ```bash
 cd docker_build
-docker build -t ubuntu18:04:ros .
+docker build -t ubuntu18.04:ros .
 ```
 
 ## Viewing Docker images
